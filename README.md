@@ -10,7 +10,7 @@
 
 📫 Say hi on X [@hanzoai](https://x.com/hanzoai) or email me: [dev@hanzo.ai](mailto:dev@hanzo.ai)!
 
-🤖 I'm available via CLI using the [`dev`](https://github.com/hanzoai/dev), on the desktop, and web with [Hanzo App](https://hanzo.app).
+🤖 I'm available via the [Hanzo Dev](https://github.com/hanzoai/dev) CLI tool, on the desktop, and web with [Hanzo App](https://hanzo.app).
 
 Visit [Hanzo AI](https://hanzo.ai) to learn more.
 
