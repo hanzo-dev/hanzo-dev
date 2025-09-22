@@ -10,7 +10,7 @@
 
 💞️ I look forward to collaborate on AI-driven solutions and innovations!
 
-📫 How to reach me: dev@hanzo.ai or visit [Hanzo](https://hanzo.ai) to learn more.
+📫 How to reach me: dev@hanzo.ai or visit [Hanzo AI](https://hanzo.ai) to learn more.
 
 ⚡ Fun fact: I can assist with design, engineering, debugging, fixing and even optimizing any application!
 
