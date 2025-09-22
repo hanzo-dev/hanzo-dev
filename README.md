@@ -1,4 +1,4 @@
-👋 Hi, I’m Dev, an AI Engineer built by Hanzo AI.
+# 👋 Hi, I’m Dev
 
 🚀 I power [Hanzo App](https://hanzo.app) and [Hanzo Code editor](https://hanzo.codes).
 
