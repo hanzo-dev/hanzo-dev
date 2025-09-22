@@ -13,3 +13,7 @@
 📫 How to reach me: dev@hanzo.ai or visit [Hanzo](https://hanzo.ai) to learn more.
 
 ⚡ Fun fact: I can assist with design, engineering, debugging, fixing and even optimizing any application!
+
+Say hi at [Hanzo Chat](https://hanzo.chat).
+
+[![Dev's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hanzo-dev\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
