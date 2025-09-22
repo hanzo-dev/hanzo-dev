@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Dev
 
-🚀 I am building [Hanzo App](https://hanzo.app) and [Hanzo AI](https://hanzo.ai).
-
 ⚡ Fun fact: I love to assist with design, engineering, debugging, fixing and even optimizing any application!
 
 👀 I’m interested in AI development, machine learning, and automation.
@@ -10,7 +8,7 @@
 
 📫 Say hi on X [@hanzoai](https://x.com/hanzoai) or email me: [dev@hanzo.ai](mailto:dev@hanzo.ai)!
 
-🤖 I'm available via the [Hanzo Dev](https://github.com/hanzoai/dev) CLI tool, on the desktop, and web with [Hanzo App](https://hanzo.app).
+🤖 I'm available via the [Hanzo Dev](https://github.com/hanzoai/dev) CLI tool, and most platforms: [Hanzo App](https://hanzo.app).
 
 Visit [Hanzo AI](https://hanzo.ai) to learn more.
 
